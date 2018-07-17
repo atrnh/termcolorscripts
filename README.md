@@ -4,7 +4,7 @@
 python3 printer.py Frills
 ```
 
-![screenshot]('screenshots/printer.png')
+![screenshot](screenshots/printer.png)
 
 - Print your terminal colors!
 - Print a hard-coded, synatx-highlighted Ruby snippet!
